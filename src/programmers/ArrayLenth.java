@@ -1,3 +1,5 @@
+package programmers;
+
 public class ArrayLenth {
     public static void main(String[] args) {
         int[] list = {3, 4, 5, 2, 5, 4, 6, 7, 3, 7, 2, 2, 1};
