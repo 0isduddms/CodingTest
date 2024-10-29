@@ -19,7 +19,6 @@ class Three {
         for (int i = 0; i < a.length(); i++){
             answer += (a.charAt(i) -'0') * (int)Math.pow(3, a.length()-i -1);
         }
-
         System.out.println(a);
         System.out.println(answer);
         return answer;
